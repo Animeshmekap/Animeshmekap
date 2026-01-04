@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm an MCA Graduate and Software Developer Fresher with a strong foundation in programming and web development.  <br>I enjoy building practical applications and solving real-world problems through code.<br><br>🎓 Master of Computer Applications (MCA)  <br>💻 Technical Skills: Java, Python, HTML, CSS, JavaScript, MySQL  <br>🛠️ Familiar with: OOPs, DBMS & GitHub  <br>🌱 Currently learning advanced backend development and cloud fundamentals  <br>🚀 Actively seeking entry-level Software Developer opportunities<br>
+Hi 👋 I'm an MCA Graduate and Software Developer Fresher with a strong foundation in programming and web development.  <br>I enjoy building practical applications and solving real-world problems through code.<br><br>🎓 Master of Computer Applications (MCA)  <br>💻 Technical Skills: Java, Python, HTML, CSS, JavaScript, MySQL  <br>🛠️ Familiar with: OOPs, DBMS & GitHub  <br>🌱 Currently learning advanced backend development <br>🚀 Actively seeking entry-level Software Developer opportunities<br>
 
 
 ## 🌐 Socials:
